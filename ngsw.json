@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574238476905,
+  "timestamp": 1574239994845,
   "index": "https://jinghuanglim.github.io/bitcoin-order-app/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://jinghuanglim.github.io/bitcoin-order-app/favicon.ico",
         "https://jinghuanglim.github.io/bitcoin-order-app/index.html",
-        "https://jinghuanglim.github.io/bitcoin-order-app/main-es2015.7b2612ce661b10e3b1a2.js",
-        "https://jinghuanglim.github.io/bitcoin-order-app/main-es5.7b2612ce661b10e3b1a2.js",
+        "https://jinghuanglim.github.io/bitcoin-order-app/main-es2015.ab135e490de7b7e61012.js",
+        "https://jinghuanglim.github.io/bitcoin-order-app/main-es5.ab135e490de7b7e61012.js",
         "https://jinghuanglim.github.io/bitcoin-order-app/manifest.webmanifest",
         "https://jinghuanglim.github.io/bitcoin-order-app/polyfills-es2015.d3e61f0dd2b58e518eca.js",
         "https://jinghuanglim.github.io/bitcoin-order-app/polyfills-es5.517f1d5415025b3e9b1a.js",
@@ -67,9 +67,9 @@
     "https://jinghuanglim.github.io/bitcoin-order-app/assets/pixel.gif": "87bb3a5dcd68684dee2e401dc8ed016eb6bea75f",
     "https://jinghuanglim.github.io/bitcoin-order-app/back6.b820a7afbeaf4e4c5246.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
     "https://jinghuanglim.github.io/bitcoin-order-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://jinghuanglim.github.io/bitcoin-order-app/index.html": "1c00d906374ca00548dffa39e03975848af0f865",
-    "https://jinghuanglim.github.io/bitcoin-order-app/main-es2015.7b2612ce661b10e3b1a2.js": "55b6b3e432fbeee57ebd5ea16e89739c6be4012a",
-    "https://jinghuanglim.github.io/bitcoin-order-app/main-es5.7b2612ce661b10e3b1a2.js": "00cd5655d5d063b12e0ed745198b30d38fcf5d17",
+    "https://jinghuanglim.github.io/bitcoin-order-app/index.html": "fbeead79681c2327fdd6720515916fdbe34b98b7",
+    "https://jinghuanglim.github.io/bitcoin-order-app/main-es2015.ab135e490de7b7e61012.js": "c9118641a38de53afb15d42ea651de69cf0458a8",
+    "https://jinghuanglim.github.io/bitcoin-order-app/main-es5.ab135e490de7b7e61012.js": "f9596c6918b3697120f2caf3ce993aea4cb5d9ba",
     "https://jinghuanglim.github.io/bitcoin-order-app/manifest.webmanifest": "da1eee6ec517d6398dc60e53058e5fec8304e10f",
     "https://jinghuanglim.github.io/bitcoin-order-app/polyfills-es2015.d3e61f0dd2b58e518eca.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://jinghuanglim.github.io/bitcoin-order-app/polyfills-es5.517f1d5415025b3e9b1a.js": "bc55c457c97924a880c8c5bee5337b8d12a7d7d8",
